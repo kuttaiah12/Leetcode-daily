@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 ## Array
 |  |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
