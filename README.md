@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -25,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
+| [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
