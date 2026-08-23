@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0130-surrounded-regions) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0011-container-with-most-water) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
