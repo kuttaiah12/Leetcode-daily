@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0414-third-maximum-number) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
