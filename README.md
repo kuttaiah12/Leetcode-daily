@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
