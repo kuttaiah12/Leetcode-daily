@@ -130,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
 ## Bidirectional Search
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
