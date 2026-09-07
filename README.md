@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
 ## Minimax
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
+| [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 ## Bidirectional Search
 |  |
 | ------- |
