@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 ## Bidirectional Search
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
