@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0183-customers-who-never-order) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
