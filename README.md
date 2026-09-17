@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
 | [3871-count-commas-in-range-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3871-count-commas-in-range-ii) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
 |  |
 | ------- |
