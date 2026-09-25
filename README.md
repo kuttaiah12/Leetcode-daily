@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0414-third-maximum-number) |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
@@ -242,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
