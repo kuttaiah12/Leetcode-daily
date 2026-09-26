@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Bidirectional Search
 |  |
