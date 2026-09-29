@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1020-number-of-enclaves) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1563-stone-game-v) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/kuttaiah12/Leetcode-daily/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
@@ -263,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
