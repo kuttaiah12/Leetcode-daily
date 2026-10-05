@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
+| [0856-score-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -260,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
