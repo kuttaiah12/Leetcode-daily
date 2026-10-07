@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0994-rotting-oranges) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
