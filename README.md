@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1248-count-number-of-nice-subarrays) |
@@ -277,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kuttaiah12/Leetcode-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
