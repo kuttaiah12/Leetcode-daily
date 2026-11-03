@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0414-third-maximum-number) |
 | [0542-01-matrix](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0542-01-matrix) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kuttaiah12/Leetcode-daily/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/kuttaiah12/Leetcode-daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
